@@ -16,7 +16,7 @@ function App() {
     <main>
       <h1>Better start learning this for Build week!!!! </h1>
       <h2>
-        Deployed with{' '}
+        Deployed with 💜 using {' '}
         <a
           href="https://vercel.com/docs"
           target="_blank"
